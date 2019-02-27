@@ -1,3 +1,3 @@
 # fresco
-Ugly but useful
+Ugly but beautiful
 
